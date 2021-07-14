@@ -3,6 +3,7 @@
 This game was written for Computer Architecture and system programming course. (Assignment 3)
 
 Game was written fully in NASM and was not mandatory.
+Game logic heavily relies on Co-routines.
 
 -----
 
@@ -18,6 +19,7 @@ https://www.cs.bgu.ac.il/~caspl212/Assignments/Assignment_3
 
 Illustration:
 ![Screenshot](Ass3.png)
+![Screenshot](Ass3_1.png)
 
 
 * Do note that this program has no GUI and the illustration is only here to showcase how the game is played.
