@@ -3,6 +3,7 @@
 This game was written for Computer Architecture and system programming course. (Assignment 3)
 
 Game was written fully in NASM and was not mandatory.
+
 Game logic heavily relies on Co-routines.
 
 -----
