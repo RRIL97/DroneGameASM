@@ -19,8 +19,14 @@ https://www.cs.bgu.ac.il/~caspl212/Assignments/Assignment_3
 
 
 Illustration:
+------
+
+
+
 ![Screenshot](Ass3.png)
+
 ![Screenshot](Ass3_1.png)
 
+------
 
 * Do note that this program has no GUI and the illustration is only here to showcase how the game is played.
